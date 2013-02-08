@@ -1,0 +1,23 @@
+
+
+App		A
+iPhone		P
+
+- [A] pagina registrazione nuovi utenti con codice per email
+	* modifica al DB (abilitazione utente e codice randomico)
+	* invio email
+	* pagina di conferma registrazione e abilitazione
+- [A] servizio rest per autenticazione utente
+- [A] servizio rest per registrare nuovi utenti
+- [P] pannello di login per utente
+- [P] funzione di registrazione nuovi utenti
+- [P] aggiungere items alla lista come sul sito
+- [P] confermare un acquisto specificando anche 
+	quanto si è preso e quanto si è pagato,
+	eventualmente mettere anche una foto
+	* modello dati per le spese fatte
+	* modello dati per evenutali foto
+- [A] storico spese effettuate
+- [A] consultazione dato un oggetto del suo storico prezzi
+	(quanto costava, quando e dove)
+ 
