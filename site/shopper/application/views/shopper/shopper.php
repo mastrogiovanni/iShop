@@ -6,7 +6,7 @@
 
 	<style type="text/css">
 	<!--
-	@import url("/~mastrogiovannim/shopper/resources/default.css");
+	@import url("/shopper/resources/default.css");
 	-->
 	</style>
 
@@ -14,7 +14,7 @@
 	
 	<style type="text/css">
 	<!--
-	@import url("/~mastrogiovannim/shopper/resources/style.css");
+	@import url("/shopper/resources/style.css");
 	-->
 	</style>
 		
@@ -111,7 +111,7 @@
 				<td><?=$item['brand_name']?></td>
 				<td>
 					<? if ($item['bought']!=0) { ?>
-						<img width="32" height="32" src="/~mastrogiovannim/shopper/resources/green_check_mark_button_image_500_clr.png"></img>
+						<img width="32" height="32" src="/shopper/resources/green_check_mark_button_image_500_clr.png"></img>
 					<? } ?>
 				</td>
 				</td>

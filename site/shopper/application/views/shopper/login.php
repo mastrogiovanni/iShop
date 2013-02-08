@@ -6,7 +6,7 @@
 
 	<style type="text/css">
 	<!--
-	@import url("/~mastrogiovannim/shopper/resources/default.css");
+	@import url("/shopper/resources/default.css");
 	-->
 	</style>
 
@@ -14,7 +14,7 @@
 	
 	<style type="text/css">
 	<!--
-	@import url("/~mastrogiovannim/shopper/resources/style.css");
+	@import url("/shopper/resources/style.css");
 	-->
 	</style>
 
